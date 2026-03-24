@@ -260,6 +260,7 @@ Minimal starter projects to get up and running with RunAnywhere on each platform
 | Swift (iOS) | [RunanywhereAI/swift-starter-example](https://github.com/RunanywhereAI/swift-starter-example) |
 | Flutter | [RunanywhereAI/flutter-starter-example](https://github.com/RunanywhereAI/flutter-starter-example) |
 | React Native | [RunanywhereAI/react-native-starter-app](https://github.com/RunanywhereAI/react-native-starter-app) |
+| Web | [RunanywhereAI/web-starter-app](https://github.com/RunanywhereAI/web-starter-app) |
 
 ---
 
